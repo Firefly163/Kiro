@@ -4,6 +4,7 @@
 Lighthouse Labs web development bootcamp final project
 
 ## Features + Screenshots
+![](https://raw.githubusercontent.com/dmyronuk/kiro/master/screenshots/kiro_demo.gif)
 ![Single Listing](https://raw.githubusercontent.com/buzzjam/final/working/screenshots/single_listing.png)
 ![Map](https://raw.githubusercontent.com/buzzjam/final/working/screenshots/map.png)
 
